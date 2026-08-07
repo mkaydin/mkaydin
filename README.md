@@ -127,39 +127,6 @@ Current areas of interest include:
 
 ---
 
-# Engineering Interests
-
-```text
-Artificial Intelligence
-█████████████████████
-
-Rust
-████████████████████
-
-Systems Programming
-███████████████████
-
-Embedded Linux
-██████████████████
-
-Robotics
-█████████████████
-
-Computer Vision
-████████████████
-
-Backend Engineering
-███████████████
-
-Database Systems
-██████████████
-
-Distributed Systems
-█████████████
-```
-
----
-
 # Philosophy
 
 > Build software that is fast, local, reliable, and useful.
